@@ -1,0 +1,20 @@
+{
+  "name": "faa-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -t 100000"
+  },
+  "author": "gunjan",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "lodash": "^4.16.6",
+    "mocha": "^3.1.2",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1"
+  }
+}
