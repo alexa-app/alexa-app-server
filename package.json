@@ -8,7 +8,7 @@
     "alexa-app": "^2.1.0",
     "bluebird": "^2.9.34",
     "body-parser": "~1.0.1",
-    "ejs": "~0.7.1",
+    "ejs": "~2.5.5",
     "express": "~4.0.0",
     "hotswap": "^1.1.0"
   },
